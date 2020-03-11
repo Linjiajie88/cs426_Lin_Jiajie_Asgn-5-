@@ -30,4 +30,6 @@ youtube networking tutorial: https://www.youtube.com/watch?v=UK57qdq_lak&list=PL
 
 Things Added： 
 Two lights, one of the oragan ligh(spot ligh) was on the very front of the map which is make the gameplay area like a stage, the second ligh(point ligh) was on the middle of the map which will project on the ball oject shooting to the player, since the balls will reflect and it make player confused on judge that was a "good" or "bad" cache.
-Sound effects: when the player catched tha bad cache will play a "explosion" sounds, and good cache will play a "good magical" sound. 
+Sound effects: when the player catched tha bad cache will play a "explosion" sounds, and good cache will play a "good magical" sound.
+physics constructs: one of the block in the center of the gameplay area, it restrict players movement, and one speedCache will locate in the area which is a collisionsion.
+BillBoard: A welcome billboard in the center of the map.(Since our gameplay will not change the rotation of the Player, you may change the rotation manually to test the billboard)
